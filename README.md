@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nlao</h1>
-<h3 align="center">自己満初心者プログラマーです</h3>
+<h3 align="center">暇すぎてハゲる</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nlaocs&label=Profile%20views&color=0e75b6&style=flat" alt="nlaocs" /> </p>
 
